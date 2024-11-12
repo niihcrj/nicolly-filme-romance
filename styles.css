@@ -33,3 +33,16 @@ h1 {
 p {
     font-size: 20px;
 }
+img {
+    height: 100px;
+}
+
+.categoria-videos {
+    display:flex ;
+    overflow-x: auto;
+    gap: 20px;
+}
+
+section {
+    padding-left;
+}
